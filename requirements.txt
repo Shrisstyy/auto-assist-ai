@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+faiss-cpu
+pypdf
+beautifulsoup4
+requests
+streamlit
+sentence-transformers
+pytesseract
+pillow
+ollama
